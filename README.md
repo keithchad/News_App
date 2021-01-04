@@ -4,6 +4,9 @@ Writing a News App App using [News API](https://newsapi.org/), in 100% Java, usi
 
 ## Screenshots
 
+![onboarding4](https://user-images.githubusercontent.com/63049827/103570277-deeee500-4ed9-11eb-8486-3a6e53ba3b29.png)
+
+
 ## Dependencies
   * [Material Design](https://material.io/design) - is an adaptable system of guidelines, components, and tools that support the best practices of user interface design
   * [Glide](https://github.com/bumptech/glide) - is a fast and efficient open source media management and image loading framework for Android that wraps media decoding, memory and disk caching, and resource pooling into a simple and easy to use interface.
